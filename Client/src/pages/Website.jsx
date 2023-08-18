@@ -7,7 +7,7 @@ import GetStarted from "../components/GetStarted/GetStarted";
 import Hero from "../components/Hero/Hero";
 import Residencies from "../components/Residencies/Residencies";
 import Value from "../components/Value/Value";
-const website = () => {
+const Website = () => {
   return (
     <div className="App">
       
@@ -23,4 +23,4 @@ const website = () => {
   )
 }
 
-export default website
+export default Website
